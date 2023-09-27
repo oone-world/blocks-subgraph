@@ -6,7 +6,7 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: ConverterRegistryContract
-    network: oone-chain-devnet
+    network: oone-chain
     source:
       address: '0x8EB204646Cd9cb813cbB468Cb2F33EBd429eCFb1'
       abi: ConverterRegistryContract
